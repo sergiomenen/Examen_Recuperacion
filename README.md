@@ -1,5 +1,6 @@
 # Examen_Recuperacion
 
+Podras encontrar el el codigo del examen en la rama maestro.
 
 Este proyecto contiene las clases `Matrix` y `MatrixTest` para calcular el determinante de una matriz 3x3 utilizando el método de Laplace en Java.
 
